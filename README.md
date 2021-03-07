@@ -10,11 +10,9 @@
  <a href="#-license">License</a>
 </p>
 
-<img src="./assets/dev-readme.png" />
-
 ## 👨‍💻 Developer
 
-I'm programmer and system's analist and work at Brazilian company. My Linkedin profile can be found <a herf="https://www.linkedin.com/in/gilneirisso/">here</a>.
+I'm programmer and system's analist and work at Brazilian company. My Linkedin profile can be found <a href="https://www.linkedin.com/in/gilneirisso/">here</a>.
 
 
 ## 💻 About

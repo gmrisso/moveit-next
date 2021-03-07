@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+<a href="#-developer">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#-tech">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,6 +11,16 @@
 </p>
 
 <img src="./assets/dev-readme.png" />
+
+## 💻 Developer
+
+I'm programmer and system's analist and work at Brazilian company. My Linkedin profile can be found <a herf="https://www.linkedin.com/in/gilneirisso/">here</a>.
+
+Project done during the event <strong>Next Level Week #4</strong> of the company <a href="http://app.rocketseat.com.br">Rocketseat</a>. The purpose of the event is teach trend of concepts of the current technologies.
+
+The project developed a Pomodoro timer. Each 25 minutes remembers to do a break and do an exercise. With each cycle completed, the user accumulates experience (xp points).
+
+https://www.linkedin.com/in/gilneirisso/
 
 ## 💻 About
 

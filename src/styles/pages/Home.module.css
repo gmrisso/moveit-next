@@ -2,8 +2,8 @@
     height: 100vh;
     max-width: 992px;
     margin: 0 auto;
-    padding: 2.5rem 2rem;
-  
+    padding: 0.5rem 2rem;
+    
     display: flex;
     flex-direction: column;
   }
@@ -15,4 +15,21 @@
     grid-template-columns: 1fr 1fr;
     gap: 6.25rem;
     align-content: center;
+  }
+
+  .divLogout{
+    margin-bottom: 0.5rem;
+    text-align: right;    
+  }  
+
+  .btLogout{
+    background: var(--blue-dark);
+    color: var(--white);
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;    
+  }
+
+  .btLogout:not(:disabled):hover {
+    background: var(--green);
   }

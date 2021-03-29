@@ -1,0 +1,66 @@
+.LoginContainer {
+    height: 100vh; 
+    width: 100%; 
+
+    background: var(--blue);    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;  
+    text-align: center;
+  }
+
+  .Symbol{
+      background-image: url("../../../public/Simbolo.svg") ;
+      width: 50%;
+      height: 100vh;
+      background-size: 90% 100%;
+      background-repeat: no-repeat;      
+  }
+
+  .LoginSide{
+    width: 50%;
+    height: 100vh;
+    
+    position: relative;
+  }
+
+  .Logo{
+    background-image: url("../../../public/Logo.svg") ;
+    width: 360px;
+    height: 76px;
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    margin-top: 10rem;
+}
+
+.Welcome{
+    color: var(--white);  
+    text-align: left;
+    font-size: 2rem;
+    margin-top: 4rem; 
+}
+
+.Start{
+    color: var(--text-highlight);  
+    text-align: left;
+    font-size: 1.3rem;
+    margin-top: 2rem;    
+}
+
+.BtSignin{
+    text-align: left;
+    margin-top: 2rem;
+}
+
+.LoginButton {
+    background: var(--blue-dark);
+    color: var(--white);
+    border: none;
+    padding: 0.5rem 2rem;
+    font-size: 1.5rem;
+  }
+  
+  .LoginButton:hover {
+    background: var(--green);
+  }

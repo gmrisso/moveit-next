@@ -33,7 +33,11 @@ export default function Home(props: HomeProps) {
     >
       
     {!session && <>
-        <Login />
+
+      <Head>
+          <title>Move it</title>
+      </Head>
+      <Login />
     </>}
 
     {session && <>
